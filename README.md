@@ -15,7 +15,7 @@ Boa praticas para projetos Open Source
 
 ## Regras
 
-## Scrits
+## Scripts
  - Use scripts build.* para  baixar dependencias e/ou facilitar a execução do projeto (Inicialmente quem olhar o projeto não saberá quase nada sobre, deixar a sua execução mais facilitada por sem um diferencial para um primeiro contato)
 
 ## Contatos
